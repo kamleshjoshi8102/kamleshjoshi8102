@@ -14,7 +14,7 @@ I'm Kamlesh Joshi! I'm a **Android Developer**:iphone:, looking to solve **real-
 [![HackerRank](https://img.shields.io/badge/-Kamlesh_Joshi-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/j_kamlesh8102)
 [![Medium](https://img.shields.io/badge/-@Kamlesh_Joshi-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@j.kamlesh8102)
 
-[!Badge](https://cp-logo.vercel.app/codechef/kamleshjoshi?logo=true)
+[[!Badge](https://cp-logo.vercel.app/codechef/kamleshjoshi?logo=true)]
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=kamleshjoshi8102&style=flat)
