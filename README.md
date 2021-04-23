@@ -16,7 +16,7 @@ I'm Kamlesh Joshi! I'm a **Android Developer**:iphone:, looking to solve **real-
 
 [![Codeforces](https://cp-logo.vercel.app/codeforces/kjoshi_?logo=true)](https://codeforces.com/kjoshi_)
 
-[![Atcoder](https://cp-logo.vercel.app/atcoder/<kjoshi_?logo=true)](https://atcoder.jp/users/kjoshi_)
+[![Atcoder](https://cp-logo.vercel.app/atcoder/kjoshi_?logo=true)](https://atcoder.jp/users/kjoshi_)
 
 [![Codechef](https://cp-logo.vercel.app/codechef/kamleshjoshi?logo=true)](https://www.codechef.com/users/kamleshjoshi)
 
