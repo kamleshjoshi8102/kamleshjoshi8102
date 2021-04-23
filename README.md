@@ -52,12 +52,21 @@ I'm Kamlesh Joshi! I'm Just a **Programmer**:man_technologist:, looking to solve
 
 ---
 
- 
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kamleshjoshi8102&show_icons=true&hide_border=true" />
 
 
+<h2><summary align="center">Github Stats 📈</summary></h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats-omega-umber.vercel.app/api?username=kamleshjoshi8102&show_icons=true&count_private=true&theme=radical">
+</p>
+<br>
+<img align="left" height="300" width="300" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/cool2.gif">
+<br/>
 
+
+
+
+
+<h2 align="center">Show ❤ by giving⭐to my Repositories</h
 
 
 
