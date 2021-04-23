@@ -48,7 +48,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
   </a>
 </p>
 <br/>
-<img src="https://github.com/kamleshjoshi8102/imgbot/blob/imgbot/skull.gif" alt="side Image" align="centre" width="280" height="auto" />
+<img src="https://github.com/kamleshjoshi8102/imgbot/blob/imgbot/skull.gif" alt="side Image" align="right" width="280" height="auto" />
 
 
 
