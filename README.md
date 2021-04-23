@@ -65,11 +65,6 @@ I'm Kamlesh Joshi! I'm a **Android Developer**:iphone:, looking to solve **real-
 
 
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
 
 [website]: https://spyd3r.hashnode.dev/
 [twitter]: https://twitter.com/spyd3r17
