@@ -30,8 +30,8 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 [![CodePen](https://img.shields.io/badge/-Kamlesh_Joshi-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/kamleshjoshi55/pens/public)
 [![Medium](https://img.shields.io/badge/-@Kamlesh_Joshi-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@j.kamlesh8102)
 [![Discord](https://img.shields.io/badge/-Spyd3r-7289DA?style=flat&logo=Discord&logoColor=white)](https://discord.gg/sJzvPSM9yu)
-[![Dev](https://img.shields.io/badge/-Kamlesh_Joshi-7289DA?style=flat&logo=Dev&logoColor=white)](https://dev.to/spyd3r)
-[![Stack_Overflow](https://img.shields.io/badge/-Kamlesh_Joshi-7289DA?style=flat&logo=Dev&logoColor=white)](https://stackoverflow.com/users/15597317/kamlesh-joshi)
+[![Dev](https://img.shields.io/badge/-Kamlesh_Joshi-black?style=flat&logo=Dev&logoColor=white)](https://dev.to/spyd3r)
+[![Stack_Overflow](https://img.shields.io/badge/-Kamlesh_Joshi-orange?style=flat&logo=Dev&logoColor=white)](https://stackoverflow.com/users/15597317/kamlesh-joshi)
 
 
 <!-- Profile View Count and GitStats -->
