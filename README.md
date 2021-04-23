@@ -19,3 +19,8 @@
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+
+[website]: https://codeSTACKr.com
+[twitter]: https://twitter.com/spyd3r17
+[instagram]: https://instagram.com/kamlesh_joshi_55
+[linkedin]: https://www.linkedin.com/in/kamlesh-joshi-a42467190/
