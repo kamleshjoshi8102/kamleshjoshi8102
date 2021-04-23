@@ -1,3 +1,7 @@
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/image.gif">
+</a>
+
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 😃 I am Kamlesh Joshi!
 
 <!--Introduction -->
@@ -76,6 +80,8 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 <br>
 <img align="left" height="300" width="300" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/cool2.gif">
 <br/>
+
+
 
 
 
