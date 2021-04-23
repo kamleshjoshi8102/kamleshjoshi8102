@@ -12,7 +12,7 @@ I'm Kamlesh Joshi! I'm a **Android Developer**:iphone:, looking to solve **real-
 [![Behance](https://img.shields.io/badge/-joykishan_sharma-191919?style=flat&labelColor=191919&logo=behance&logoColor=white)](https://www.behance.net/kamleshjoshi3)
 [![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:j.kamlesh8102@gmail.com)
 [![CodePen](https://img.shields.io/badge/-joykishan_sharma-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/kamleshjoshi55/pens/public)
-[![HackerRank](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/j_kamlesh8102)
+[![HackerRank](https://img.shields.io/badge/-kamlesh-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/j_kamlesh8102)
 [![Medium](https://img.shields.io/badge/-@joykishan120-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@j.kamlesh8102)
 
 <!-- Profile View Count and GitStats -->
