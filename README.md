@@ -38,12 +38,10 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 * Problem Solving Skills
 * Kotlin
 * Some Personal Projects 😍
-* 🔜
 
 
 <br/>
 
-<br>
 
  <h2> <summary align="center">GitHub Trophies 🏆</summary></h2>
 <p align="center">
@@ -52,7 +50,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
   </a>
 </p>
 <br/>
-<img src="https://github.com/kamleshjoshi8102/imgbot/blob/imgbot/skull.gif" alt="side Image" align="right" width="280" height="auto" />
+<img src="https://github.com/kamleshjoshi8102/imgbot/blob/imgbot/skull.gif" alt="side Image" align="centre" width="280" height="auto" />
 
 
 
@@ -62,8 +60,6 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 <br/>
 
 
-
-<br />
 
 
 
