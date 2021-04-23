@@ -45,7 +45,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
  <h2> <summary align="center">GitHub Trophies 🏆</summary></h2>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub">
     <img src="https://github-profile-trophy.vercel.app/?username=kamleshjoshi8102&theme=gruvbox"/>
   </a>
 </p>
