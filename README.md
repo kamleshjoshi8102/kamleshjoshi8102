@@ -22,11 +22,6 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 [![Medium](https://img.shields.io/badge/-@Kamlesh_Joshi-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@j.kamlesh8102)
 
 
-<br>
-
-![github graph](https://activity-graph.herokuapp.com/graph?username=JayantGoel001&theme=react-dark)
-
-<br/>
 
 
 
@@ -88,6 +83,11 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 
 
+<br>
+
+![github graph](https://activity-graph.herokuapp.com/graph?username=kamleshjoshi8102&theme=react-dark)
+
+<br/>
 
 <h2 align="center">Show ❤ by giving⭐to my Repositories</h2>
 
