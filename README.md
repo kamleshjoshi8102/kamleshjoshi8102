@@ -1,7 +1,7 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Kamlesh Joshi!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 😃 I am Kamlesh Joshi!
 
 <!--Introduction -->
-I'm Kamlesh Joshi! I'm Just a **Programmer**:man_technologist:, looking to solve **real-world problems**:earth_asia:. I'm passionate about **Competitive Programming**, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
+I'm Just a **Programmer**:man_technologist:, looking to solve **real-world problems**:earth_asia:. I'm passionate about **Competitive Programming**, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you wanna say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
@@ -18,7 +18,7 @@ I'm Kamlesh Joshi! I'm Just a **Programmer**:man_technologist:, looking to solve
 [![Medium](https://img.shields.io/badge/-@Kamlesh_Joshi-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@j.kamlesh8102)
 
 
-
+/discord/:spyd3r
 
 
 
@@ -77,7 +77,7 @@ I'm Kamlesh Joshi! I'm Just a **Programmer**:man_technologist:, looking to solve
 <img align="left" height="300" width="300" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/cool2.gif">
 <br/>
 
----
+
 
 <h2 align="center">Show ❤ by giving⭐to my Repositories</h2>
 
