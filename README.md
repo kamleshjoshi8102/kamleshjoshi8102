@@ -7,7 +7,6 @@ I'm Kamlesh Joshi! I'm a **Android Developer**:iphone:, looking to solve **real-
 
 
 <!-- Your badges -->
-[![Google Playstore](https://img.shields.io/badge/-Joy_Apps-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
 [![Linkedin](https://img.shields.io/badge/-Kamlesh_Joshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamlesh-joshi-a42467190/)
 [![Behance](https://img.shields.io/badge/-Kamlesh_Joshi-191919?style=flat&labelColor=191919&logo=behance&logoColor=white)](https://www.behance.net/kamleshjoshi3)
 [![Gmail](https://img.shields.io/badge/-Kamlesh_Joshi-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:j.kamlesh8102@gmail.com)
