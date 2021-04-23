@@ -13,7 +13,7 @@ I'm Kamlesh Joshi! I'm a **Android Developer**:iphone:, looking to solve **real-
 [![CodePen](https://img.shields.io/badge/-Kamlesh_Joshi-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/kamleshjoshi55/pens/public)
 [![HackerRank](https://img.shields.io/badge/-Kamlesh_Joshi-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/j_kamlesh8102)
 [![Medium](https://img.shields.io/badge/-@Kamlesh_Joshi-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@j.kamlesh8102)
-
+[!Codeforces](https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/<kjoshi_>&query=%24.<FIELD>&prefix=<TEXT>&style=for-the-badge&cacheSeconds=86400)
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=kamleshjoshi8102&style=flat)
 [![Github](https://img.shields.io/badge/-Kamlesh_Joshi-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/kamleshjoshi8102)
