@@ -79,9 +79,7 @@ I'm Kamlesh Joshi! I'm Just a **Programmer**:man_technologist:, looking to solve
 
 ---
 
-<h2 align="center">Show ❤ by giving⭐to my Repositories</h
-
-
+<h2 align="center">Show ❤ by giving⭐to my Repositories</h2>
 
 
 
