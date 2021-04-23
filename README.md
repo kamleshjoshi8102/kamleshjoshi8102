@@ -30,7 +30,6 @@ I'm Joykishan! I'm a **Android Developer**:iphone:, looking to solve **real-worl
 
 
 
----
 
 
 
