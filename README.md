@@ -7,9 +7,9 @@ I'm Kamlesh Joshi! I'm a **Android Developer**:iphone:, looking to solve **real-
 
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamlesh-joshi-a42467190/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:j.kamlesh8102@gmail.com)
-[![Codeforces](https://cp-logo.vercel.app/codeforces/kjoshi_?logo=true)](https://codeforces.com/kjoshi_)
+[![Linkedin](https://img.shields.io/badge/-Kamlesh_Joshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamlesh-joshi-a42467190/)
+[![Gmail](https://img.shields.io/badge/-Kamlesh_Joshi-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:j.kamlesh8102@gmail.com)
+[![kjoshi_](https://cp-logo.vercel.app/codeforces/kjoshi_?logo=true)](https://codeforces.com/kjoshi_)
 [![Atcoder](https://cp-logo.vercel.app/atcoder/kjoshi_?logo=true)](https://atcoder.jp/users/kjoshi_)
 [![Codechef](https://cp-logo.vercel.app/codechef/kamleshjoshi?logo=true)](https://www.codechef.com/users/kamleshjoshi)
 [![HackerRank](https://img.shields.io/badge/-Hacker_Rank-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/j_kamlesh8102)
