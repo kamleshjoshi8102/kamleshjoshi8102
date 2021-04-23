@@ -23,6 +23,7 @@ I'm Kamlesh Joshi! I'm a **Android Developer**:iphone:, looking to solve **real-
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
 ### 💼  Things that I'm currently working on: 
+* Problem Solving Skills
 * Kotlin
 * Some Personal Projects 😍
 * 🔜
