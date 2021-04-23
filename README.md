@@ -12,12 +12,12 @@ I'm Kamlesh Joshi! I'm a **Android Developer**:iphone:, looking to solve **real-
 [![Behance](https://img.shields.io/badge/-Kamlesh_Joshi-191919?style=flat&labelColor=191919&logo=behance&logoColor=white)](https://www.behance.net/kamleshjoshi3)
 [![Gmail](https://img.shields.io/badge/-Kamlesh_Joshi-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:j.kamlesh8102@gmail.com)
 [![CodePen](https://img.shields.io/badge/-Kamlesh_Joshi-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/kamleshjoshi55/pens/public)
-[![HackerRank](https://img.shields.io/badge/-kamlesh-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/j_kamlesh8102)
+[![HackerRank](https://img.shields.io/badge/-Kamlesh_Joshi-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/j_kamlesh8102)
 [![Medium](https://img.shields.io/badge/-@Kamlesh_Joshi-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@j.kamlesh8102)
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=kamleshjoshi8102&style=flat)
-[![Github](https://img.shields.io/badge/-JoykishanSharma-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/kamleshjoshi8102)
+[![Github](https://img.shields.io/badge/-Kamlesh_Joshi-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/kamleshjoshi8102)
 
 <!-- gif Image -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
