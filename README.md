@@ -53,11 +53,9 @@ I'm Kamlesh Joshi! I'm Just a **Programmer**:man_technologist:, looking to solve
 ---
 
  
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kamleshjoshi8102&show_icons=true&hide_border=true" />
 
-</details>
 
 
 
