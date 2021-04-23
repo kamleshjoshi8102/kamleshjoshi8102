@@ -32,6 +32,9 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 <!-- gif Image -->
 <img src="https://github.com/kamleshjoshi8102/imgbot/blob/main/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
+<img src="https://github.com/kamleshjoshi8102/imgbot/blob/imgbot/skull.gif" alt="side Image" align="right" width="460" height="auto" />
+
+
 ### 💼  Things that I'm currently working on: 
 * Problem Solving Skills
 * Kotlin
