@@ -17,7 +17,7 @@ I'm Kamlesh Joshi! I'm a **Android Developer**:iphone:, looking to solve **real-
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=kamleshjoshi8102&style=flat)
-[![Github](https://img.shields.io/badge/-JoykishanSharma-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/kamleshjoshi8102)
+[![Github](https://img.shields.io/badge/-Kamlesh Joshi-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/kamleshjoshi8102)
 
 <!-- gif Image -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
