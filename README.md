@@ -41,6 +41,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 <br/>
 
+<br>
 
  <h2> <summary align="center">GitHub Trophies 🏆</summary></h2>
 <p align="center">
