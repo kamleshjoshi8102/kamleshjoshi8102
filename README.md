@@ -88,7 +88,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 
 <p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&theme=radical">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&theme=radical"height="480">
 <img align="center" src="https://github-readme-stats-omega-umber.vercel.app/api?username=kamleshjoshi8102&show_icons=true&count_private=true&theme=radical">
 </p>
 
@@ -116,6 +116,8 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
 
 <img src="https://github.com/kamleshjoshi8102/imgbot/blob/imgbot/skull.gif" alt="side Image" align="right" width="140" height="auto" />
 
