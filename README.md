@@ -9,7 +9,7 @@
 
 
 <!--Introduction -->
-I'm Just a **Programmer**:man_technologist:, looking to solve **real-world problems**:earth_asia:. I'm passionate about **Competitive Programming**, creating software:computer: , I like **learning** and **experimenting** with new technologies, building small **projects** . Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
+I'm Just a **Programmer**:man_technologist:, looking to solve **real-world problems**:earth_asia:. I'm passionate about **Competitive Programming**, creating software:computer: , I like **learning** and **experimenting** with new technologies, building small **projects** . Do :star2: my repository if you find my projects interesting, at least your star could make someone's day :smile:.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you wanna say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
@@ -90,7 +90,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 
 <br>
-
+<img src="https://camo.githubusercontent.com/acaeea0b6e60a1e49c09cacd6d8c951f8d37fa2fcfa2f8b28a07fabea6171098/68747470733a2f2f77616b6174696d652e636f6d2f73686172652f40616e696b657473696e676839383537312f39353539353765662d366632362d346537372d613565612d6235303363666462393238642e737667" data-canonical-src="https://wakatime.com/share/@kamleshjoshi8102/955957ef-6f26-4e77-a5ea-b503cfdb928d.svg" style="max-width:100%;">
 ![github graph](https://activity-graph.herokuapp.com/graph?username=kamleshjoshi8102&theme=react-dark)
 
 <br/>
