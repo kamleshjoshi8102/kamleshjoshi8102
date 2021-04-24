@@ -83,7 +83,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 <img align="center" src="https://github-readme-stats-omega-umber.vercel.app/api?username=kamleshjoshi8102&show_icons=true&count_private=true&theme=radical">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102layout=compact&amp;theme=radical" style="max-width:100%;)](https://github.com/kamleshjoshi8102)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&layout=compact&amp;theme=radical" style="max-width:100%;)](https://github.com/kamleshjoshi8102)
 <br>
 <img align="left" height="300" width="300" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/cool2.gif">
 <br/>
