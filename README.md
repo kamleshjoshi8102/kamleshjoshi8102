@@ -68,20 +68,14 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 
 
-<p align="center">
-  <a>
-   <img height="180" width="160" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/left.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamleshjoshi8102&theme=dark&hide_border=true"/>
-   <img height="180" width="160" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/right.png">
-</p>
 <br/>  
 
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=kamleshjoshi8102&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=kamleshjoshi8102&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=kamleshjoshi8102&count_private=true&show_icons=true&theme=radical">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=kamleshjoshi8102&count_private=true&show_icons=true&theme=radical" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=php&theme=radical">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=php&theme=radical" />
 </a>
 </div>
 
