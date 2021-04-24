@@ -112,7 +112,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 <img align="center" src="https://camo.githubusercontent.com/8a62832e63280fea0fb40250e8063ca88631b3edd9f0eed782390e1cbd82dd6c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d536879616d5072617665656e53696e6768267265706f3d576561746865722d466f7265636173742d417070267468656d653d7261646963616c" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=kamleshjoshi8102&amp;repo=Codeforces_Practice-App&amp;theme=radical" style="max-width:100%;">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102)](https://github.com/kamleshjoshi8102/Codeforces_Practice)
 
 [website]: https://spyd3r.hashnode.dev/
 [twitter]: https://twitter.com/spyd3r17
