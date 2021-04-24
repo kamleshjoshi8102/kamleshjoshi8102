@@ -75,7 +75,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
    <img height="180" width="160" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/right.png">
 </p>
 <br/>  
-
+<img align="center" src="https://camo.githubusercontent.com/44283cd735e18deeaa4c18c4d7f1df5dd9ec939ee6fcdc4bd4f4fdcd5ecadbbb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d536879616d5072617665656e53696e6768266c61796f75743d636f6d70616374267468656d653d7261646963616c" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&amp;layout=compact&amp;theme=radical" style="max-width:100%;">
 
 
 <h2><summary align="center">Github Stats 📈</summary></h2>
@@ -83,7 +83,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 <img align="center" src="https://github-readme-stats-omega-umber.vercel.app/api?username=kamleshjoshi8102&show_icons=true&count_private=true&theme=radical">
 </p>
 <br>
-<img align="left" height="300" width="300" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/cool2.gif">
+<img align="left" height="300" width="300" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/cool2.gif">
 <br/>
 
 
