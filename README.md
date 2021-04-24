@@ -79,12 +79,13 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 
 <h2><summary align="center">Github Stats 📈</summary></h2>
+<p align="left">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&theme=radical&align="left")
+</p>
 <p align="center">
 <img align="center" src="https://github-readme-stats-omega-umber.vercel.app/api?username=kamleshjoshi8102&show_icons=true&count_private=true&theme=radical">
 </p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&theme=radical&align="left")
 
 
 
