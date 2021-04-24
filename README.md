@@ -82,7 +82,6 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 <p align="center">
 <img align="center" src="https://github-readme-stats-omega-umber.vercel.app/api?username=kamleshjoshi8102&show_icons=true&count_private=true&theme=radical">
 </p>
-<img align="center" src="https://camo.githubusercontent.com/44283cd735e18deeaa4c18c4d7f1df5dd9ec939ee6fcdc4bd4f4fdcd5ecadbbb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d536879616d5072617665656e53696e6768266c61796f75743d636f6d70616374267468656d653d7261646963616c" style="max-width:100%;">
 
 
 
