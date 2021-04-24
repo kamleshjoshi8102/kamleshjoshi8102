@@ -76,6 +76,15 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 </p>
 <br/>  
 
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=kamleshjoshi8102&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=kamleshjoshi8102&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
+</a>
+</div>
+
 <p>
 <i>
 *NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.
