@@ -84,8 +84,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 </p>
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&theme=radical&align="left")
 
 
 
