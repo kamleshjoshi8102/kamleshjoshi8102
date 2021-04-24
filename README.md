@@ -76,6 +76,11 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 </p>
 <br/>  
 
+<p>
+<i>
+*NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.
+</i>
+</p>
 
 
 <h2><summary align="center">Github Stats 📈</summary></h2>
