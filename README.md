@@ -70,8 +70,8 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 
 
-<br>
-<img align="right" height="300" width="300" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/cool2.gif">
+
+<img align="right" height="200" width="200" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/cool2.gif">
 
 
 ### 💼  Things that I'm currently working on: 
