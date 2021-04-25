@@ -122,11 +122,11 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=kamleshjoshi8102&count_private=true&show_icons=true&theme=radical">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=kamleshjoshi8102&count_private=true&show_icons=true&theme=radical" width="420"  />
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=kamleshjoshi8102&count_private=true&show_icons=true&theme=radical"  />
 </a>
- <img src="https://github.com/kamleshjoshi8102/imgbot/blob/main/meditation.gif" height="196" width="140" alt="" style=max-width:100%;">
+
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=php&theme=radical">
-  <img align="right" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=php&theme=radical" height="195" width="240" />
+  <img align="right" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=php&theme=radical" height="195" width="320" />
   
 
 </a>
@@ -166,6 +166,8 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 [<img align="left" alt="joshi | codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
 [<img align="left" alt="joshi | codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 
+
+ <img src="https://github.com/kamleshjoshi8102/imgbot/blob/main/meditation.gif" height="196" width="140" alt="" style=max-width:100%;">
 <img src="https://github.com/kamleshjoshi8102/imgbot/blob/imgbot/skull.gif" alt="side Image" align="right" width="140" height="auto" />
 
   <br/>
