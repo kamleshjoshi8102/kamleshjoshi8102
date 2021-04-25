@@ -135,7 +135,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 ![github graph](https://activity-graph.herokuapp.com/graph?username=kamleshjoshi8102&theme=react-dark)
 
 <br/>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!&center=true&color="FF0000")](https://git.io/typing-svg)
 
 ### Connect with me:
 
@@ -148,7 +148,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 <img src="https://github.com/kamleshjoshi8102/imgbot/blob/imgbot/skull.gif" alt="side Image" align="right" width="140" height="auto" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!&center=true&color="FF0000")](https://git.io/typing-svg)
+
 <h2 align="center">Show ❤ by giving⭐to my Repositories</h2>
 
 
