@@ -43,6 +43,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 <br/>
 
 ### My Skills 🚀
+
 <img src="https://camo.githubusercontent.com/0d3ae99a9dcced770f5a2e6d2395999c121d9975f3f1816ee3b3902a3c8e6a92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266f676f436f6c6f723d7768697465" alt="C++" data-canonical-src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" style="max-width:100%;">
 ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
