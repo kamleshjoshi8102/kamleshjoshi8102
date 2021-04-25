@@ -54,10 +54,9 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
 ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
 ![C++](https://img.shields.io/badge/cplusplus-%0061FB.svg?style=for-the-badge&logo=clusplus&logoColor=black&color=0061FB)
-[![C++](https://img.shields.io/badge/-C++-0061FB?style=flat&logo=Cplusplus&logoColor=0061FB)](https://stackoverflow.com/users/15597317/kamlesh-joshi)
 ![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
 ![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
-
+<img src="https://camo.githubusercontent.com/0d3ae99a9dcced770f5a2e6d2395999c121d9975f3f1816ee3b3902a3c8e6a92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266f676f436f6c6f723d7768697465" alt="C++" data-canonical-src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" style="max-width:100%;">
 
 ### Tools I Use 🔧🔨
 
