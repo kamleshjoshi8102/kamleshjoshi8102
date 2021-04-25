@@ -63,6 +63,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 ![Jupyter](https://img.shields.io/badge/jupyter-%3776AB.svg?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626)
 ![pycharm](https://img.shields.io/badge/pycharm-black.svg?&style=for-the-badge&logo=pycharm)
 ![Android_Studio](https://img.shields.io/badge/AndroidStudio-black.svg?&style=for-the-badge&logo=Android)
+<img alt="Android Studio" src="https://camo.githubusercontent.com/c2aba91675bbbd86828b02ad948f4fc5ea4b7e231f4ad23b5364b98c48cb14a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f696425323053747564696f2d3030383637382e7376673f6c6f676f3d616e64726f69642d73747564696f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&amp;logoColor=white" style="max-width:100%;">
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_Idea-FF1493.svg?style=for-the-badge&logo=intellijIdea)
 ![Virtual_Box](https://img.shields.io/badge/VirtualBox-black.svg?style=for-the-badge&logo=VirtualBox)
 ![Eclipse](https://img.shields.io/badge/Eclipse-black.svg?style=for-the-badge&logo=Eclipse)
