@@ -164,12 +164,12 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 [<img align="left" alt="joshi | codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
 [<img align="left" alt="joshi | codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 
+<img src="https://github.com/kamleshjoshi8102/imgbot/blob/imgbot/skull.gif" alt="side Image" align="right" width="140" height="auto" />
 
   <br/>
   <br/>
 
 <h2 align="center">Show ❤ by giving⭐to my Repositories</h2>
-<img src="https://github.com/kamleshjoshi8102/imgbot/blob/imgbot/skull.gif" alt="side Image" align="right" width="140" height="auto" />
 
 
 
