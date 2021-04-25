@@ -1,4 +1,3 @@
-
 <img src="https://github.com/kamleshjoshi8102/imgbot/blob/imgbot/header_.png" alt="" style="max-width:100%;">
 
 
@@ -25,7 +24,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 [![Linkedin](https://img.shields.io/badge/-Kamlesh_Joshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamlesh-joshi-a42467190/)
 [![Gmail](https://img.shields.io/badge/-Kamlesh_Joshi-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:j.kamlesh8102@gmail.com)
 [![kjoshi_](https://cp-logo.vercel.app/codeforces/kjoshi_?logo=true)](https://codeforces.com/kjoshi_)
-[![Codechef](https://cp-logo.vercel.app/codechef/kamleshjoshi?logo=true)](https://www.codechef.com/users/kamleshjoshi)
+[![codechef](https://cp-logo.vercel.app/codechef/kamleshjoshi?logo=true)](https://www.codechef.com/users/kamleshjoshi)
 [![Atcoder](https://cp-logo.vercel.app/atcoder/kjoshi_?logo=true)](https://atcoder.jp/users/kjoshi_)
 [![HackerRank](https://img.shields.io/badge/-Kamlesh_Joshi-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/j_kamlesh8102)
 [![Behance](https://img.shields.io/badge/-Kamlesh_Joshi-191919?style=flat&labelColor=191919&logo=behance&logoColor=white)](https://www.behance.net/kamleshjoshi3)
