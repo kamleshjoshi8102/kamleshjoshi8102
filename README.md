@@ -56,7 +56,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
 ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
-![C++](https://img.shields.io/badge/c++-%3776AB.svg?style=for-the-badge&logo=c++&logoColor=white&color=0061FB)(https://www.cplusplus.com/)
+[![C++](https://img.shields.io/badge/c++-%3776AB.svg?style=for-the-badge&logo=c++&logoColor=white&color=0061FB)](https://www.cplusplus.com/)
 
 ### Tools I Use 🔧🔨
 ![Xampp](https://img.shields.io/badge/xampp-%FCC624.svg?style=for-the-badge&logo=xampp&logoColor=white&color=FB7A24)
