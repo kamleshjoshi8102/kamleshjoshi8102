@@ -68,6 +68,9 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 ![Ubuntu VM](https://img.shields.io/badge/Ubuntu%20VM-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
+<br>
+<img align="right" height="300" width="300" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/cool2.gif">
+<br/>
 
 ### 💼  Things that I'm currently working on: 
 * Problem Solving Skills
@@ -75,9 +78,6 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 * Some Personal Projects 😍
 
 
-<br>
-<img align="right" height="300" width="300" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/cool2.gif">
-<br/>
 
 <br/>
 
