@@ -54,6 +54,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
 ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
 ![C++](https://img.shields.io/badge/cplusplus-%0061FB.svg?style=for-the-badge&logo=clusplus&logoColor=black&color=0061FB)
+[![C++](https://img.shields.io/badge/-C++-0061FB?style=flat&logo=Cplusplus&logoColor=0061FB)](https://stackoverflow.com/users/15597317/kamlesh-joshi)
 ![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
 ![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
 
