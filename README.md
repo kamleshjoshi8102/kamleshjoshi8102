@@ -61,10 +61,10 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 ### Tools I Use 🔧🔨
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Sublime_Text](https://img.shields.io/badge/Sublime_Text-007ACC.svg?&style=for-the-badge&logo=Sublime_Text&logoColor=orange)
+![Sublime_Text](https://img.shields.io/badge/Sublime_Text-007ACC.svg?&style=for-the-badge&logo=Sublime_Text&logoColor=FF8C00)
 ![Jupyter](https://img.shields.io/badge/jupyter-%3776AB.svg?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626)
 ![ANACONDA](https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20VM-E95420.svg?style=for-the-badge&logo=IntelliJ&logoColor=pink)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-E95420.svg?style=for-the-badge&logo=IntelliJ&logoColor=FF1493)
 
 
 <br>
