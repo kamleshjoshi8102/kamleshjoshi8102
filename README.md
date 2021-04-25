@@ -66,12 +66,8 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 ![Jupyter](https://img.shields.io/badge/jupyter-%3776AB.svg?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626)
 ![pycharm](https://img.shields.io/badge/pycharm-black.svg?&style=for-the-badge&logo=pycharm)
 <img src="https://camo.githubusercontent.com/b47adcf9ec6ebda2472bfabf941e573d2ba360c45773c6526f445e5aec5872eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3035313530433f7374796c653d666c61742d737175617265266c6f676f3d616e64726f6964" alt="Android_Studio" height="28" width="128" style="max-width:100%;">
-![Android_Studio](https://img.shields.io/badge/Android_Studio-black.svg?&style=for-the-badge&logo=Android_Studio)
-![Android_Studio](https://camo.githubusercontent.com/b47adcf9ec6ebda2472bfabf941e573d2ba360c45773c6526f445e5aec5872eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3035313530433f7374796c653d666c61742d737175617265266c6f676f3d616e64726f6964)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-FF1493.svg?style=for-the-badge&logo=intellij)
 
-
-<img src="https://camo.githubusercontent.com/b47adcf9ec6ebda2472bfabf941e573d2ba360c45773c6526f445e5aec5872eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3035313530433f7374796c653d666c61742d737175617265266c6f676f3d616e64726f6964" alt="Android_Studio" style="max-width:100%;">
 
 <br>
 <img align="right" height="300" width="300" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/cool2.gif">
