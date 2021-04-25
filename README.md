@@ -68,7 +68,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 ![Android_Studio](https://img.shields.io/badge/AndroidStudio-black.svg?&style=for-the-badge&logo=Android)
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_Idea-FF1493.svg?style=for-the-badge&logo=intellijIdea)
 ![Virtual_Box](https://img.shields.io/badge/VirtualBox-black.svg?style=for-the-badge&logo=VirtualBox)
-
+![Eclipse](https://img.shields.io/badge/Eclipse-black.svg?style=for-the-badge&logo=Eclipse)
 
 <br>
 <img align="right" height="300" width="300" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/cool2.gif">
