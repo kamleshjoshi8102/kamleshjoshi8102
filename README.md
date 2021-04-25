@@ -154,6 +154,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!&center=true&color="FF0000")](https://git.io/typing-svg)
 
 
+<h2 align="center">Show ❤ by giving⭐to my Repositories</h2>
 
 ### Connect with me:
 
@@ -174,7 +175,6 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
   <br/>
   <br/>
 
-<h2 align="right">Show ❤ by giving⭐to my Repositories</h2>
 
 
 
