@@ -72,7 +72,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 <br>
 <img align="right" height="300" width="300" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/cool2.gif">
-<br/>
+
 
 ### 💼  Things that I'm currently working on: 
 * Problem Solving Skills
