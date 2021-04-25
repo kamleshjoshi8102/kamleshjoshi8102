@@ -142,9 +142,11 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 <br/><br/>
 
  <br/>
+
+<br/>
+<br/>
+
 ---
-<br />
-<br>
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=kamleshjoshi8102&theme=react-dark)
 
