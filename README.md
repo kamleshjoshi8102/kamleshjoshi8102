@@ -136,12 +136,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 <br/>
 
-<p align="left">
-  <a target="_blank" rel="noopener noreferrer" href="github.com">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!&center=true&color="FF0000">
-                                                                                                            </a>
-                                                                                                            </p>
-                                                                                                            
+                                                                                                     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!&center=true&color="FF0000")](https://git.io/typing-svg)
 
 
