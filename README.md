@@ -65,7 +65,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 ![Sublime_Text](https://img.shields.io/badge/Sublime_Text-FF8C00.svg?&style=for-the-badge&logo=Sublime_Text&logoColor=FF8C00)
 ![Jupyter](https://img.shields.io/badge/jupyter-%3776AB.svg?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626)
 ![pycharm](https://img.shields.io/badge/pycharm-black.svg?&style=for-the-badge&logo=pycharm)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-FF1493.svg?style=for-the-badge&logo=IntelliJ&logoColor=FF1493)
+![IntelliJ](https://img.shields.io/badge/intellij-FF1493.svg?style=for-the-badge&logo=intellij)
 
 
 <br>
