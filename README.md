@@ -57,14 +57,14 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
 ![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
 ![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4) 
-![Kotlin](https://img.shields.io/badge/kotlin-%777BB4.svg?style=for-the-badge&logo=kotlin&color=black) <img src="https://camo.githubusercontent.com/a1da880d5cc0fb84edca408e88286a1e127c0c8c55a22c8062021d6cfd4f1520/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6b6f746c696e2d3030366137313f7374796c653d706c6173746963266c6f676f3d6b6f746c696e" alt="Kotlin" data-canonical-src="https://img.shields.io/badge/-kotlin-006a71?style=plastic&amp;logo=kotlin" style="max-width:100%;">
+![Kotlin](https://img.shields.io/badge/kotlin-%777BB4.svg?style=for-the-badge&logo=kotlin&color=black)
 
 ### Tools I Use 🔧🔨
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime_Text](https://img.shields.io/badge/Sublime_Text-FF8C00.svg?&style=for-the-badge&logo=Sublime_Text&logoColor=FF8C00)
 ![Jupyter](https://img.shields.io/badge/jupyter-%3776AB.svg?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626)
-![ANACONDA](https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![pycharm](https://img.shields.io/badge/pycharm-007ACC.svg?&style=for-the-badge&logo=pycharm)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-FF1493.svg?style=for-the-badge&logo=IntelliJ&logoColor=FF1493)
 
 
