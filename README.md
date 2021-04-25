@@ -135,6 +135,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 ![github graph](https://activity-graph.herokuapp.com/graph?username=kamleshjoshi8102&theme=react-dark)
 
 <br/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!&center=true&color="FF0000")](https://git.io/typing-svg)
 
 ### Connect with me:
