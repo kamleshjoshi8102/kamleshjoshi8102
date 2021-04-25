@@ -153,7 +153,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
                                                                                                      
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!&center=true&color="FF0000")](https://git.io/typing-svg)
 
-
+<img src="https://github.com/kamleshjoshi8102/imgbot/blob/imgbot/skull.gif" alt="side Image" align="right" width="140" height="auto" />
 
 ### Connect with me:
 
@@ -169,8 +169,9 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 <br/>
 
   
-<img src="https://github.com/kamleshjoshi8102/imgbot/blob/imgbot/skull.gif" alt="side Image" align="right" width="140" height="auto" />
 
+
+<br/><br/>
 
 <h2 align="center">Show ❤ by giving⭐to my Repositories</h2>
 
