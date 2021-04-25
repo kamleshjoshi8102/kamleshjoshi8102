@@ -159,7 +159,8 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 
 
-<img src="https://github.com/kamleshjoshi8102/imgbot/blob/imgbot/skull.gif" alt="side Image" align="right" width="140" height="auto" /><h2 align="center">Show ❤ by giving⭐to my Repositories</h2>
+<img src="https://github.com/kamleshjoshi8102/imgbot/blob/imgbot/skull.gif" alt="side Image" align="right" width="140" height="auto" />
+<h2 align="center">Show ❤ by giving⭐to my Repositories</h2>
 
 
 
