@@ -59,7 +59,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 ### Tools I Use 🔧🔨
 
-![Sublime_Text](https://img.shields.io/badge/Sublime_Text-FF8C00.svg?&style=for-the-badge&logo=Sublime_Text&logoColor=FF8C00) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime_Text](https://img.shields.io/badge/Sublime_Text-FF8C00.svg?&style=for-the-badge&logo=sublime-text&logoColor=FF8C00) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-%3776AB.svg?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626)
 ![pycharm](https://img.shields.io/badge/pycharm-black.svg?&style=for-the-badge&logo=pycharm)
 ![Android_Studio](https://img.shields.io/badge/AndroidStudio-008678.svg?&style=for-the-badge&logo=android-studio&logoColor=white)
