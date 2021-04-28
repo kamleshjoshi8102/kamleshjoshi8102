@@ -23,7 +23,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Kamlesh_Joshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamlesh-joshi-a42467190/)
 [![Gmail](https://img.shields.io/badge/-Kamlesh_Joshi-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:j.kamlesh8102@gmail.com)
-[![kjoshi_](https://cp-logo.vercel.app/codeforces/kjoshi_?logo=true)](https://codeforces.com/kjoshi_)
+[![kjoshi_](https://cp-logo.vercel.app/codeforces/kjoshi_?logo=true)](https://codeforces.com/profile/kjoshi_)
 [![codechef](https://cp-logo.vercel.app/codechef/kamleshjoshi?logo=true)](https://www.codechef.com/users/kamleshjoshi)
 [![Atcoder](https://cp-logo.vercel.app/atcoder/kjoshi_?logo=true)](https://atcoder.jp/users/kjoshi_)
 [![HackerRank](https://img.shields.io/badge/-Kamlesh_Joshi-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/j_kamlesh8102)
@@ -45,7 +45,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 ### My Skills 🚀
 
 <img src="https://camo.githubusercontent.com/0d3ae99a9dcced770f5a2e6d2395999c121d9975f3f1816ee3b3902a3c8e6a92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266f676f436f6c6f723d7768697465" alt="C++" data-canonical-src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" style="max-width:100%;"> ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
-![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)(https://gitstats.me/kamleshjoshi8102)
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
 ![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
@@ -66,7 +66,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_Idea-FF1493.svg?style=for-the-badge&logo=intellij-idea)
 ![Virtual_Box](https://img.shields.io/badge/VirtualBox-4682B4.svg?style=for-the-badge&logo=VirtualBox)
 ![Eclipse](https://img.shields.io/badge/Eclipse-black.svg?style=for-the-badge&logo=Eclipse)
-![Burpsuite](https://img.shields.io/badge/Burpsuite-black.svg?style=for-the-badge&logo=burpsuite)
+![Burpsuite](https://img.shields.io/badge/burpsuite-black.svg?style=for-the-badge&logo=burpsuite)
 
 
 
