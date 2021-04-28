@@ -64,9 +64,9 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 ![pycharm](https://img.shields.io/badge/pycharm-black.svg?&style=for-the-badge&logo=pycharm)
 ![Android_Studio](https://img.shields.io/badge/AndroidStudio-008678.svg?&style=for-the-badge&logo=android-studio&logoColor=white)
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_Idea-FF1493.svg?style=for-the-badge&logo=intellij-idea)
-![Virtual_Box](https://img.shields.io/badge/VirtualBox.svg?style=for-the-badge&logo=VirtualBox)
+![Virtual_Box](https://img.shields.io/badge/VirtualBox-4682B4.svg?style=for-the-badge&logo=VirtualBox)
 ![Eclipse](https://img.shields.io/badge/Eclipse-black.svg?style=for-the-badge&logo=Eclipse)
-![Burpsuite](https://img.shields.io/badge/burpsuite-696969.svg?style=for-the-badge&logo=burpsuite)
+![Burpsuite](https://img.shields.io/badge/burpsuite-black.svg?style=for-the-badge&logo=port-swigger)
 
 
 
