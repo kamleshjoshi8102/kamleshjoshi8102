@@ -69,7 +69,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 ![Burpsuite](https://img.shields.io/badge/burpsuite-black.svg?style=for-the-badge&logo=burp-suite)
 <img src="https://img.icons8.com/ios-filled/50/000000/burp-suite.png" alt="BurpSuite"  />
 
-![Burpsuite](https://img.icons8.com/ios-filled/50/000000/burp-suite.png-black.svg?style=for-the-badge&logo=burp-suite)
+![Burpsuite](https://img.icons8.com/ios-filled/50/000000/burp-suite.png-black.svg?style=for-the-badge&logo=https://img.icons8.com/ios-filled/50/000000/burp-suite.png)
 
 
 
