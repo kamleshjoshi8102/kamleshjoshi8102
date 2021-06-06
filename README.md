@@ -153,7 +153,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 <br/>
 
                                                                                                      
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!&center=true&color="FF0000")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!&center=true&color="FF0000")](https://github.com/kamleshjoshi8102)
 
 <img src="https://github.com/kamleshjoshi8102/imgbot/blob/imgbot/skull.gif" alt="side Image" align="right" width="140" height="auto" />
 
