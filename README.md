@@ -79,7 +79,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 ### 💼  Things that I'm currently working on: 
 * Problem Solving Skills
-* Kotlin
+* MERN Stack
 * Some Personal Projects 😍
 
 
