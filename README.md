@@ -30,7 +30,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 [![Behance](https://img.shields.io/badge/-Kamlesh_Joshi-191919?style=flat&labelColor=191919&logo=behance&logoColor=white)](https://www.behance.net/kamleshjoshi3)
 [![CodePen](https://img.shields.io/badge/-Kamlesh_Joshi-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/kamleshjoshi55/pens/public)
 [![Medium](https://img.shields.io/badge/-@Kamlesh_Joshi-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@j.kamlesh8102)
-[![Discord](https://img.shields.io/badge/-Spyd3r-7289DA?style=flat&logo=Discord&logoColor=white)](https://discord.gg/sJzvPSM9yu)
+[![Discord](https://img.shields.io/badge/-Spyd3r-7289DA?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Spyd3R#0127/)
 [![Stack_Overflow](https://img.shields.io/badge/-Kamlesh_Joshi-orange?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/15597317/kamlesh-joshi)
 
 
