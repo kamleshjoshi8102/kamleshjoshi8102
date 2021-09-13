@@ -23,9 +23,6 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Kamlesh_Joshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamlesh-joshi-a42467190/)
 [![Gmail](https://img.shields.io/badge/-Kamlesh_Joshi-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:j.kamlesh8102@gmail.com)
-[![kjoshi_](https://cp-logo.vercel.app/codeforces/kjoshi_?logo=true)](https://codeforces.com/profile/kjoshi_)
-[![codechef](https://cp-logo.vercel.app/codechef/kamleshjoshi?logo=true)](https://www.codechef.com/users/kamleshjoshi)
-[![Atcoder](https://cp-logo.vercel.app/atcoder/kjoshi_?logo=true)](https://atcoder.jp/users/kjoshi_)
 [![HackerRank](https://img.shields.io/badge/-Kamlesh_Joshi-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/j_kamlesh8102)
 [![Discord](https://img.shields.io/badge/-Spyd3r-7289DA?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Spyd3R#0127/)
 [![Stack_Overflow](https://img.shields.io/badge/-Kamlesh_Joshi-orange?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/15597317/kamlesh-joshi)
@@ -182,6 +179,5 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 [linkedin]: https://www.linkedin.com/in/kamlesh-joshi-a42467190/
 [hackerearth]: https://www.hackerearth.com/@spyd3r
 [hackerrank]: https://www.hackerrank.com/j_kamlesh8102
-[codechef]: https://www.codechef.com/users/kamleshjoshi
-[codeforces]: https://codeforces.com/profile/kjoshi_
+ 
 
