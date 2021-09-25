@@ -119,8 +119,8 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
   <img  align="left" src="https://newgithub-readme-stats.vercel.app/api?username=kamleshjoshi8102&show_icons=true&count_private=true&theme=radical"  />
 </a>
 
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=php&theme=radical">
-  <img align="right" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=php&theme=radical" height="195" width="310" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=php&theme=radical">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=php&theme=radical" height="195" width="310" />
   
 
 </a>
