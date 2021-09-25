@@ -115,8 +115,8 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 <br/>  
 
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=kamleshjoshi8102&count_private=true&show_icons=true&theme=radical">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=kamleshjoshi8102&count_private=true&show_icons=true&theme=radical"  />
+<a href="https://newgithub-readme-stats.vercel.app/api?username=kamleshjoshi8102&show_icons=true&count_private=true&theme=radical">
+  <img  align="left" src="https://newgithub-readme-stats.vercel.app/api?username=kamleshjoshi8102&show_icons=true&count_private=true&theme=radical"  />
 </a>
 
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=php&theme=radical">
