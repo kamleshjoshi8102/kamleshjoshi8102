@@ -96,7 +96,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 <p align="center">
   <a>
    <img height="180" width="160" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/left.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamleshjoshi8102&theme=dark&hide_border=true"/>
+   <img height="auto" width="auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamleshjoshi8102&theme=dark&hide_border=true"/>
    <img height="180" width="160" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/right.png">
 </p>
 <br/>  
@@ -120,7 +120,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=php&theme=radical">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=jupyter Notebook,php&theme=radical" height="195" width="310" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=jupyter Notebook,php&theme=radical" height="195" width="auto" />
   
 
 </a>
