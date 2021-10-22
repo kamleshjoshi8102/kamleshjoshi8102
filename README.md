@@ -96,7 +96,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 <p align="center">
   <a>
    <img height="180" width="160" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/left.png">
-   <img height="auto" width="auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamleshjoshi8102&theme=dark&hide_border=true"/>
+   <img height="auto" width="60%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamleshjoshi8102&theme=dark&hide_border=true"/>
    <img height="180" width="160" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/right.png">
 </p>
 <br/>  
