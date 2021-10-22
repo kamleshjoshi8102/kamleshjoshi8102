@@ -120,7 +120,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=php&theme=radical">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=jupyter Notebook,php&theme=radical" height="195" width="auto" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=jupyter Notebook,php&theme=radical" height="195" width="250" />
   
 
 </a>
