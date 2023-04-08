@@ -49,7 +49,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![GitHub](https://img.shields.io/badge/github-%3776AB.svg?style=for-the-badge&logo=github&logoColor=white&color=black)
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
-![Kotlin](https://img.shields.io/badge/kotlin-%777BB4.svg?style=for-the-badge&logo=kotlin&color=black)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 ### Tools I Use 🔧🔨
 
