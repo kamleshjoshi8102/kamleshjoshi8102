@@ -144,7 +144,9 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=kamleshjoshi8102&theme=react-dark)
+<!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=kamleshjoshi8102&theme=react-dark) -->
+[![Kamlesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kamleshjoshi8102&theme=react-dark)](https://github.com/kamleshjoshi8102/github-readme-activity-graph)
+
 
 <br/>
 
