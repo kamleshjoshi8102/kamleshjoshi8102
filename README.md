@@ -121,8 +121,8 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
   <img  align="left" src="https://newgithub-readme-stats.vercel.app/api?username=kamleshjoshi8102&show_icons=true&count_private=true&theme=radical"  />
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=php&theme=radical">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=jupyter Notebook,php&theme=radical" height="195" width="250" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&theme=radical">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&theme=radical" height="195" width="250" />
   
 
 </a>
@@ -144,9 +144,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 
 
-<!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=kamleshjoshi8102&theme=react-dark) -->
-[![Kamlesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kamleshjoshi8102&theme=react-dark)](https://github.com/kamleshjoshi8102/github-readme-activity-graph)
-
+![github graph](https://activity-graph.herokuapp.com/graph?username=kamleshjoshi8102&theme=react-dark)
 
 <br/>
 
