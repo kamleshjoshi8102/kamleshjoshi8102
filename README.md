@@ -144,7 +144,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=kamleshjoshi8102&theme=react-dark)
+![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=kamleshjoshi8102&theme=react)
 
 <br/>
 
