@@ -22,11 +22,12 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 <!-- Your badges --> 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/Kamlesh-Joshi-/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/Spyd3R#0127/)
+
+
 [![Gmail](https://img.shields.io/badge/-Kamlesh_Joshi-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:j.kamlesh8102@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-Kamlesh_Joshi-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/j_kamlesh8102)
-[![Discord](https://img.shields.io/badge/-Spyd3r-7289DA?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Spyd3R#0127/)
 [![Stack_Overflow](https://img.shields.io/badge/-Kamlesh_Joshi-orange?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/15597317/kamlesh-joshi)
-
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=kamleshjoshi8102&style=flat)
