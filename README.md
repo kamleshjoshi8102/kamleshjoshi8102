@@ -122,10 +122,12 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&theme=radical">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&theme=radical" height="195" width="250" />
-  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&layout=donut&theme=radical&hide=jupyter%20notebook" height="210" width="350" />
+ 
 
 </a>
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&layout=pie)](https://github.com/kamleshjoshi8102/github-readme-stats) -->
+
 </div>
 
 
@@ -144,7 +146,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 
 
-![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=kamleshjoshi8102&theme=react)
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=kamleshjoshi8102&theme=react)
 
 <br/>
 
