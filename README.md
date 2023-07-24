@@ -102,8 +102,8 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 <br/>  
 
 <div>
-<a href="https://newgithub-readme-stats.vercel.app/api?username=kamleshjoshi8102&show_icons=true&count_private=true&theme=radical" height="210" width="250" >
-  <img  align="left" src="https://newgithub-readme-stats.vercel.app/api?username=kamleshjoshi8102&show_icons=true&count_private=true&theme=radical"  />
+<a href="https://newgithub-readme-stats.vercel.app/api?username=kamleshjoshi8102&show_icons=true&count_private=true&theme=radical" " >
+  <img  align="left" src="https://newgithub-readme-stats.vercel.app/api?username=kamleshjoshi8102&show_icons=true&count_private=true&theme=radical" height="210" width="50%"  />
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&theme=radical">
