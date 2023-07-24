@@ -20,8 +20,8 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 </a>
 
 
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Kamlesh_Joshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Kamlesh-Joshi-/)
+<!-- Your badges --> 
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/Kamlesh-Joshi-/)
 [![Gmail](https://img.shields.io/badge/-Kamlesh_Joshi-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:j.kamlesh8102@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-Kamlesh_Joshi-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/j_kamlesh8102)
 [![Discord](https://img.shields.io/badge/-Spyd3r-7289DA?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/Spyd3R#0127/)
@@ -38,31 +38,15 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 ### My Skills 🚀
 
-<img src="https://camo.githubusercontent.com/0d3ae99a9dcced770f5a2e6d2395999c121d9975f3f1816ee3b3902a3c8e6a92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266f676f436f6c6f723d7768697465" alt="C++" data-canonical-src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" style="max-width:100%;"> ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
-![React](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
-![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
-![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
-![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
-![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-![GitHub](https://img.shields.io/badge/github-%3776AB.svg?style=for-the-badge&logo=github&logoColor=white&color=black)
-![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,html,css,js,react,bootstrap,materialui,mysql,py,nextjs)](https://github.com/kamleshjoshi8102)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,express,nodejs,mongodb,vercel,netlify)](https://github.com/kamleshjoshi8102)
 
 ### Tools I Use 🔧🔨
 
+
+[![Tools](https://skillicons.dev/icons?i=postman,vscode,vim,idea,atom)](https://github.com/kamleshjoshi8102)
+
 ![Sublime_Text](https://img.shields.io/badge/Sublime_Text-696969.svg?&style=for-the-badge&logo=sublime-text)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%3776AB.svg?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626)
-![pycharm](https://img.shields.io/badge/pycharm-black.svg?&style=for-the-badge&logo=pycharm)
-![Android_Studio](https://img.shields.io/badge/AndroidStudio-008678.svg?&style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_Idea-FF1493.svg?style=for-the-badge&logo=intellij-idea)
-![Virtual_Box](https://img.shields.io/badge/VirtualBox-4682B4.svg?style=for-the-badge&logo=VirtualBox)
-![Eclipse](https://img.shields.io/badge/Eclipse-black.svg?style=for-the-badge&logo=Eclipse)
 ![Burpsuite](https://img.shields.io/badge/burpsuite-black.svg?style=for-the-badge&logo=Burp)
 
 
