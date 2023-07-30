@@ -162,7 +162,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 
 
-[website]: https://spyd3r.hashnode.dev/
+[website]: https://kamlesh-joshi.vercel.app/
 [twitter]: https://twitter.com/spyd3r17
 [instagram]: https://instagram.com/kamlesh_joshi_55
 [linkedin]: https://www.linkedin.com/in/kamlesh-joshi-a42467190/
